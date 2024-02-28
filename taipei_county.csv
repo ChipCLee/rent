@@ -1,4 +1,4 @@
-,time,type,building,address,area,price,floor,county
+id,time,type,building,address,area,price,floor,county
 0,2024/02/01,分租套房,無電梯公寓,新北市中和區景安路,10坪,8500,4 / 5,中和區
 1,2024/02/01,分租套房,無電梯公寓,新北市中和區景新街,5坪,4500,5 / 5,中和區
 2,2024/01/31,車位,,新北市土城區學府路一段,10坪,3900,,土城區
